@@ -4,8 +4,9 @@ public class SwitchCase {
     public static void main(String args[]){
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter an option : \n1. Namaste\n2. Hello\n3. Bonjour");
-        System.out.println("Your choice : ");
+        System.out.print("Your choice : ");
         int ch = sc.nextInt();
+        System.out.println();
         switch (ch) {
             case 1:
             System.out.println("Namaste !");
