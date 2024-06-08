@@ -12,7 +12,7 @@ public class variables {
         double z = 25.36;
         System.out.println(name + "\n"+ x+ "\n"+y + "\n"+z); 
         double res = x+z ;
-        int diff = x-y;
+        // int diff = x-y;
         System.out.println(res);
 System.out.println(x*y / x-y);
 System.out.println((x*y) / (x-y));

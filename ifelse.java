@@ -8,6 +8,7 @@ public class ifelse {
         System.out.println("Adult");
         else
         System.out.println("Not an adult");
+        sc.close();
 
     }
 }
