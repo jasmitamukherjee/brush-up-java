@@ -17,5 +17,6 @@ public class CummulativeLength {
 
 
      System.out.println(totLength);
+     sc.close();
    }
 }

@@ -27,7 +27,6 @@ else
 System.out.println("Found at : "+(i+1));
 sc.close();
 
-
     }
     
 }
