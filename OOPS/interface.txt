@@ -1,0 +1,3 @@
+Interface cant have constructors 
+All methods are abstract and public
+Properties re public,static and final

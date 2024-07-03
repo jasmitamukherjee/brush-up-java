@@ -1,0 +1,3 @@
+Abstract classes cant have any objects. 
+It is basically a concept.
+It can have both abstract and non abstract methods.
