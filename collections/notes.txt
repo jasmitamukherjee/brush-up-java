@@ -1,0 +1,21 @@
+List interface :
+ArryaList
+LinkedList
+Vector <-- Stack
+
+Queue:
+priorityQueue
+LinkedList
+ArrayDeque->Deque(Interface)
+
+Set:
+Hashset
+linkedhashset
+TreeSet->SortedSet(interface)
+
+Map: 
+Hashmap
+linkedhashmap
+treemap->sortedmap(interface)
+hashtable
+
